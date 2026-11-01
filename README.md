@@ -1,0 +1,1 @@
+An auction mod designed for streamers to auction off items in the game, designed for donut smp but may work in other servers. The mod is not a rat or anything like that and its payment tracking system and auction system does not link to the server at all it is all client side and visual.
